@@ -1,6 +1,7 @@
 clear all
 close all
 clc
+
 %% Input for training dataset
 tic
 imds = imageDatastore('C:\Users\musman18\Desktop\remote sensing letter\whurs\whu',...
