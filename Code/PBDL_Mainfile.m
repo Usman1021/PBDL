@@ -1,7 +1,10 @@
 clear all
 close all
 clc
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                                    
+% Muhammad, U., Hoque, M.Z., Wang W., Oussalah, M., 2022. Remote Sensing                             % 
+% Patch-Based Discriminative Learning for Remote Sensing Scene Classification                        % 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Input for training dataset
 tic
 imds = imageDatastore('C:\Users\musman18\Desktop\remote sensing letter\whurs\whu',...
