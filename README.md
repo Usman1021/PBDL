@@ -25,6 +25,6 @@ Muhammad, Usman and Hoque, Md Ziaul and Wang, Weiqiang and Oussalah, Mourad (202
 ### Links
 • Main link: https://www.mdpi.com/2072-4292/14/23/5913
 
-• Preprint: https://www.techrxiv.org/articles/preprint/A_Discriminative_Neighborhood-Based_Collaborative_Learning_for_Remote_Sensing_Scene_Classification/16441593
+• Preprint: https://www.techrxiv.org/articles/preprint/16441593
 
 
